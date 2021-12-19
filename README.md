@@ -1,2 +1,2 @@
 # PricingPanel
-Pricing Panel project usning HTML and CSS/Flexbox
+Pricing Panel project using HTML and CSS/Flexbox
